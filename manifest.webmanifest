@@ -1,0 +1,12 @@
+{
+  "name": "Massive Jail",
+  "short_name": "Massive Jail",
+  "id": "com.example.geometrymonster",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
